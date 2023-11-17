@@ -1,0 +1,11 @@
+Equipment ID,Temperature (°C),Vibration (mm/s),Pressure (kPa),Current (A),Failure
+1,25,10,100,5,FALSE
+2,30,15,120,7,TRUE
+3,28,12,110,6,FALSE
+4,27,11,105,5.5,FALSE
+5,26,9,115,6,FALSE
+6,32,18,130,8,TRUE
+7,29,13,118,7,FALSE
+8,24,8,98,4,FALSE
+9,23,7,95,4.5,FALSE
+10,22,6,92,3.5,FALSE
